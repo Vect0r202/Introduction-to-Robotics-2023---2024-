@@ -26,3 +26,8 @@ Your code implementations are stored within the repository, ensuring version con
 📷Media Files📷
 
 To enhance your documentation, the repository supports the inclusion of image files and videos. You can use these to demonstrate your robot's performance, visualize results, and provide clear explanations in your homework.
+
+
+Homework - 2
+
+In this robotics lab assignment, you will use an Arduino microcontroller to independently control the red, green, and blue colors of an RGB LED using three potentiometers. By adjusting the potentiometer knobs, you can vary the intensity of each color, allowing you to create a wide range of colors. This assignment focuses on analog input and output interfacing, providing hands-on experience with color control.
