@@ -26,3 +26,23 @@ Your code implementations are stored within the repository, ensuring version con
 📷Media Files📷
 
 To enhance your documentation, the repository supports the inclusion of image files and videos. You can use these to demonstrate your robot's performance, visualize results, and provide clear explanations in your homework.
+
+Homework - 3 - Description
+The Arduino Elevator Simulator is a fun and educational project that replicates the operation of a simple elevator system using LEDs. This project is designed to mimic the functioning of an elevator in a building with three floors. It utilizes a total of four LEDs to provide visual feedback to users.
+
+How it Works:
+
+1. Initialization:
+When the Arduino is powered on, all LEDs are turned off, indicating that the elevator is on the ground floor.
+
+2. Floor Selection:
+Users can simulate selecting a floor by pressing the corresponding push button (if implemented).
+
+3. Elevator Movement:
+When a floor is selected, the elevator movement LED starts blinking to simulate the elevator's ascent or descent. The appropriate floor indicator LED lights up to show the elevator's position.
+
+4. Arrival at Destination:
+Once the elevator reaches the selected floor, the movement LED stops blinking, and the selected floor indicator LED remains lit to indicate the elevator's arrival.
+
+5. Repeat or Change Destination:
+Users can continue to simulate elevator operation by selecting different floors or sending the elevator back to the ground floor.
