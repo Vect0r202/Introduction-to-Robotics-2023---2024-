@@ -46,3 +46,5 @@ Once the elevator reaches the selected floor, the movement LED stops blinking, a
 
 5. Repeat or Change Destination:
 Users can continue to simulate elevator operation by selecting different floors or sending the elevator back to the ground floor.
+
+YouTube Link: https://www.youtube.com/shorts/-DHHcxRMpfc
