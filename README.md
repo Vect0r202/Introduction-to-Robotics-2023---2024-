@@ -40,3 +40,5 @@ Button Activation: When you press the button on the joystick, the currently acti
 Interactive User Interface: Users can interact with the display by choosing which segment to activate using the joystick. Pressing the button confirms and maintains the selected LED segment's visibility.
 
 This project provides an engaging way to interact with a 7-segment display, making it ideal for educational purposes, simple games, or visual feedback systems where users need to make choices and lock in their selections using a joystick and a button.
+
+Youtube link: https://youtube.com/shorts/A26_jcTZje8?feature=share
