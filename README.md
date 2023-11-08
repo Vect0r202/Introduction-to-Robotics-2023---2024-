@@ -42,3 +42,5 @@ Interactive User Interface: Users can interact with the display by choosing whic
 This project provides an engaging way to interact with a 7-segment display, making it ideal for educational purposes, simple games, or visual feedback systems where users need to make choices and lock in their selections using a joystick and a button.
 
 Youtube link: https://youtube.com/shorts/A26_jcTZje8?feature=share
+
+!(./Homework-4/7-segment-display-joystick.jpeg)
