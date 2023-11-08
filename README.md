@@ -43,4 +43,4 @@ This project provides an engaging way to interact with a 7-segment display, maki
 
 Youtube link: https://youtube.com/shorts/A26_jcTZje8?feature=share
 
-!(./Homework-4/7-segment-display-joystick.jpeg)
+![poza tema 4](./7-segment-display-joystick.jpeg)
