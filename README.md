@@ -26,3 +26,15 @@ Your code implementations are stored within the repository, ensuring version con
 📷Media Files📷
 
 To enhance your documentation, the repository supports the inclusion of image files and videos. You can use these to demonstrate your robot's performance, visualize results, and provide clear explanations in your homework.
+
+Homework-5
+
+Stopwatch timer with reset and save laps
+
+Build an Arduino project featuring a 4-digit 7-segment display, start/stop buttons, and lap recording. The code, leveraging millis(), manages the timer, with a lap button records. A reset button resets the stopwatch, offering a compact and effective timekeeping solution.
+Youtube link: https://youtube.com/shorts/PJXRDPeSGAw?feature=share
+
+![poza tema 5](./Stopwatch_timer.jpeg)
+
+
+
