@@ -34,6 +34,7 @@ Stopwatch timer with reset and save laps
 Build an Arduino project featuring a 4-digit 7-segment display, start/stop buttons, and lap recording. The code, leveraging millis(), manages the timer, with a lap button records. A reset button resets the stopwatch, offering a compact and effective timekeeping solution.
 Youtube link: https://youtube.com/shorts/PJXRDPeSGAw?feature=share
 
+
 ![poza tema 5](./Stopwatch_timer.jpeg)
 
 
