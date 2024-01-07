@@ -33,4 +33,5 @@ To enhance your documentation, the repository supports the inclusion of image fi
           https://www.youtube.com/shorts/tgoHDuWgTRM
 
 Image:
-!(H6 image - smart monitor and logger system.jpeg)
+
+![alt](/path/to/H6 image - smart monitor and logger system.jpeg)
