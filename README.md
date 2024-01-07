@@ -26,3 +26,11 @@ Your code implementations are stored within the repository, ensuring version con
 📷Media Files📷
 
 To enhance your documentation, the repository supports the inclusion of image files and videos. You can use these to demonstrate your robot's performance, visualize results, and provide clear explanations in your homework.
+
+ "Pseudo-Smart Environment Monitor and Logger" involves developing a system using Arduino to monitor environmental data. Key features include using various sensors like an Ultrasonic Sensor and an LDR (Light-Dependent Resistor), logging data into EEPROM, and providing feedback via an RGB LED. The project emphasizes integrating sensor readings, memory management, and Serial Communication, with a focus on building a user-interactive menu. The assignment also includes guidelines on EEPROM usage, sensor calibration, and error handling in Serial Communication, aiming to create a versatile and responsive environmental monitoring system. 🌡️🔊💡🖥️🔧
+
+ Youtube: https://www.youtube.com/shorts/VQUZPv-MuCw
+          https://www.youtube.com/shorts/tgoHDuWgTRM
+
+Image:
+
