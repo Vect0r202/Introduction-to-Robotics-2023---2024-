@@ -34,4 +34,5 @@ To enhance your documentation, the repository supports the inclusion of image fi
 
 Image:
 
-![alt](/Homework-6/H6 image - smart monitor and logger system.jpeg)
+![Smart Monitor and Logger System](H6%20image%20-%20smart%20monitor%20and%20logger%20system.jpeg)
+
