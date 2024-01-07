@@ -33,4 +33,4 @@ To enhance your documentation, the repository supports the inclusion of image fi
           https://www.youtube.com/shorts/tgoHDuWgTRM
 
 Image:
-![pseudo-smart enviroment monitor and logger image](/H6 image - smart monitor and logger system.jpeg)
+![pseudo-smart enviroment monitor and logger image]/H6 image - smart monitor and logger system.jpeg
